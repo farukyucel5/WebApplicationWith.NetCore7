@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FirstWebAppWith.NetCore.props" />
+</Project>

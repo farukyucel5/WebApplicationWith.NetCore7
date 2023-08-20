@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FirstWebAppWith.NetCore.props" />
+</Project>
